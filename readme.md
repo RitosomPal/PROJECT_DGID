@@ -47,6 +47,7 @@
 ### Student
 
 - [x] Register Student
+- [x] Student Login
 - [x] Update Student Info
 - [x] Fetch All Students Name
 - [x] Fetch Student Info
